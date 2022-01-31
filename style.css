@@ -29,6 +29,10 @@ body{
     background-color:var(--colorPrimary);
     max-width: 100%;
 }
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
 /* Header styling */
 header{
     height:80vh;
