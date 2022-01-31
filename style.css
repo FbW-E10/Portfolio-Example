@@ -436,6 +436,9 @@ button:active{
         
         
     }
+    nav{
+        position:static;
+    }
     .skills__card{
         flex-basis:100%;
     }
