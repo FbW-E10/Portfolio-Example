@@ -421,7 +421,7 @@ button:active{
 }
 /* Media queries for responsive design */
 
-@media (max-width:768px) {
+@media (max-width:962px) {
     .nav__container{
         flex-direction: column;
         align-items: center;
@@ -433,7 +433,7 @@ button:active{
     }
     .projects__box{
         flex-basis:100%;
-        
+        margin-bottom:5rem;
         
     }
     nav{
