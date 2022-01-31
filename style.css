@@ -445,6 +445,9 @@ button:active{
     textarea{
         flex-basis:100%;
     }
+    form{
+        width:80vw;
+    }
 }
 @media (max-width:560px){
     :root{
